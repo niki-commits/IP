@@ -1,4 +1,8 @@
-Practical for IP LAB 2024-25
+"Welcome to my GitHub for Ip Lab"
+
+Teacher Incharge: Dipti Karani
+
+
 
 
 
